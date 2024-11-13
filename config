@@ -12,23 +12,23 @@ db_name=whaticket
 
 
 
-wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh aapanel
+#wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh aapanel
 
 
 
 
 
-aaPanel Internet Address: https://[2a01:4f9:c012:9641::1]:26043/b9cd9d96
-aaPanel Interna Address: https://95.217.236.31:26043/b9cd9d96
-username: nb5qx6hw
-password: 117ee990
+#aaPanel Internet Address: https://[2a01:4f9:c012:9641::1]:26043/b9cd9d96
+#aaPanel Interna Address: https://95.217.236.31:26043/b9cd9d96
+#username: nb5qx6hw
+#password: 117ee990
 
 
-fernando
-aaPanel Internet Address: https://[2a01:4f9:c012:778b::1]:28335/0a2edc50
-aaPanel Internal Address: https://37.27.17.31:28335/0a2edc50
-username: wnp6vrj4
-password: 3c915fd0
+#fernando
+#aaPanel Internet Address: https://[2a01:4f9:c012:778b::1]:28335/0a2edc50
+#aaPanel Internal Address: https://37.27.17.31:28335/0a2edc50
+#username: wnp6vrj4
+#password: 3c915fd0
 
 
 
